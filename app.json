@@ -1,5 +1,9 @@
 {
   "expo": {
+    "experiments": {
+      "reactCanary": true,
+      "reactCompiler": true
+    },
     "name": "expo-shaken-reanimated",
     "slug": "expo-shaken-reanimated",
     "version": "1.0.0",
